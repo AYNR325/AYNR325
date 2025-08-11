@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Ayush Rokade</h1>
 <p>A passionate full stack developer </p>
 💫 About Me:
-<br><br>- 🎓 I'm a 3rd-year Computer Engineering student passionate about building real-world applications.<br>- 🧠 Strong foundation in MERN Stack, Java, Python, and C.<br>- 🌱 Currently diving into Machine Learning and exploring intelligent software solutions.<br>- 🔍 Actively seeking internship opportunities to apply my skills and gain industry experience.<br>- 💬 Enjoy solving real-world problems, collaborating in teams, and continuously improving as a developer.<br> 
+<br><br>- 🎓 I'm a final year Computer Engineering student passionate about building real-world applications.<br>- 🧠 Strong foundation in MERN Stack, Java, Python, and C.<br>- 🌱 Currently diving into AI and exploring intelligent software solutions.<br>- 🔍 Actively seeking internship opportunities to apply my skills and gain industry experience.<br>- 💬 Enjoy solving real-world problems, collaborating in teams, and continuously improving as a developer.<br> 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
